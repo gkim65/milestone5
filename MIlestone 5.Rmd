@@ -1,0 +1,18 @@
+---
+title: "Milestone 5: About Page (Korean Diaspora in the United States)"
+author: "Grace Kim"
+date: "10/18/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Summary
+
+This project aims to show the various trends in immigration patterns of the Korean ethnic group in the US. One of the tabs contains a US geographical map that depicts the density of Korean populations in each county; you have the ability to layer other data sets on top of this density map, such as largest cities, industries, crime rates, etc. There are also other trends depicted in other tabs, such as the overall Korean population in the US over time, and Korean immigration rates over time as well.
+
+## Background
+
+I first got interest in this project after learning about one of the Harvard Radcliffe fellows who based their research in the Korean Diaspora in the US. Although their research was mainly literary, this inspired me to try to find data patterns in Korean immigration and why so much of the Korean population comes to the US. Utilizing data from the US Census Bureau and other secondary sources, I hoped to find meaningful correlations between various trends in order to understand more of the immigration patterns of the Korean community. There are many interesting avenues that are open to explore when discussing the topic of immigration; due to the scope and timeframe of this project, it was not possible to explore them all, but I tried to play with the mapping functions in R to see what limits I could reach with data visualization in this scope. The types of data sets available regarding immigration and other related factors proved to be a bit difficult to find, but the US Census and other data sources from the Korean Government proved to be very helpful.
